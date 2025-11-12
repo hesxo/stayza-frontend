@@ -1,6 +1,6 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "https://stayza-backend.onrender.com/";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "https://stayza-backend.onrender.com";
 
 // Define a service using a base URL and expected endpoints
 export const api = createApi({
