@@ -104,7 +104,8 @@ export const Hero = forwardRef(
             </p>
             <AISearch />
             <div className="text-sm text-muted-foreground">
-              Try: Boutique stays with plunge pools in Lisbon
+              Try: Hotels with rooftop views in Sydney, Australia
+
             </div>
             <div className="flex flex-wrap items-center gap-8 pt-4">
               <div>
